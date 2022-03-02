@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## 이윤민 이력서
 
-You can use the [editor on GitHub](https://github.com/yumselee/yumselee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요 반갑습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 소속
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+이화여자대학교 영어영문학부
 ```markdown
 Syntax highlighted code block
 
